@@ -6,6 +6,7 @@
 ## 📥 下载地址
 如果你需要最新版本，建议前往官网下载：
 [https://www.voidtools.com/zh-cn/](https://www.voidtools.com/zh-cn/)
+下載安裝版64位
 
 ## 🚀 安装指南 (超简单)
 为了获得最佳性能，安装时请遵循以下原则：
